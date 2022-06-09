@@ -1,0 +1,11 @@
+﻿  SetClassWork.cpp
+C:\Users\jeffr\Source\repos\SetClassWork\SetClassWork\SetClassWork.cpp(280,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\jeffr\Source\repos\SetClassWork\SetClassWork\SetClassWork.cpp(284,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jeffr\Source\repos\SetClassWork\SetClassWork\SetClassWork.cpp(312,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\jeffr\Source\repos\SetClassWork\SetClassWork\SetClassWork.cpp(316,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 361 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SetClassWork.vcxproj -> C:\Users\jeffr\Source\repos\SetClassWork\x64\Release\SetClassWork.exe
