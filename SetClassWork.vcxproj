@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="SetClassWork.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="set_class12.h" />
+    <ClInclude Include="set_class24.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
